@@ -1,0 +1,8 @@
+venv/
+geckodriver.log
+.vscode
+mysettings.txt
+firefox_cache
+firefox_cache/
+.DS_Store
+chrome_cache
